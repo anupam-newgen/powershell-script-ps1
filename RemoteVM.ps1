@@ -7,6 +7,8 @@ $UserName = "User"
 $Password = "rohit"
 #$Password = $args[2]
 $EncryptedPwd = ConvertTo-SecureString $Password -AsPlainText -Force
+$srcDeploymentDir = "D:\PowerShell\Deployment\*"
+$destinationDir = "C:\TestDeployment"
 
 $creds = New-Object System.Management.Automation.PSCredential ($UserName, $EncryptedPwd)
 if($creds)
@@ -19,13 +21,20 @@ if($creds)
         Write-Host "New PS Session Created on VM with UserName: $UserName"
         #return $Server
         Enter-PSSession $session
-        
         Write-Host "Remote PSSession on VM started"
+
         # To start a service on remote machine
         Invoke-Command -Session $session -FilePath .\ServiceStart.ps1
+        
         # To stop a service on remote machine
         Invoke-Command -Session $session -FilePath .\ServiceStop.ps1
         
+        # To create backup of existing Deployment
+        Invoke-Command -Session $session -FilePath .\BackupExistingDeployment.ps1
+        
+        #Copy items from local machine to remote machine
+        Copy-Item -ToSession $session -Path $srcDeploymentDir -Destination $destinationDir  -Recurse -Force
+
         Exit-PSSession
         Remove-PSSession -Session $session
     } else
