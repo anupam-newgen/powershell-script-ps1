@@ -13,17 +13,21 @@ if($creds)
 {
     Write-Host "Credentials added"
     # Get Powershell Session on VM
-    $Server = New-PSSession -VMName $VmName -Credential $creds
-    if($Server)
+    $session = New-PSSession -VMName $VmName -Credential $creds
+    if($session)
     {
         Write-Host "New PS Session Created on VM with UserName: $UserName"
         #return $Server
-        Enter-PSSession $Server
+        Enter-PSSession $session
+        
         Write-Host "Remote PSSession on VM started"
-        #Install JBOSS
-        Get-ComputerInfo -Property "CsDNSHostName" 
+        # To start a service on remote machine
+        Invoke-Command -Session $session -FilePath .\ServiceStart.ps1
+        # To stop a service on remote machine
+        Invoke-Command -Session $session -FilePath .\ServiceStop.ps1
+        
         Exit-PSSession
-        Write-Host "Remote PSSession on VM Ended"
+        Remove-PSSession -Session $session
     } else
     {
         Write-Host "Error creating PS Session"
