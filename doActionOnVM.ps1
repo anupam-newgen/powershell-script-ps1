@@ -25,7 +25,7 @@ if ($_session) {
             "File updated"
             "Execution of SQL Query Started"
             Invoke-Command -Session $_session -FilePath .\startService.ps1 -ArgumentList "MSSQLSERVER"
-            Invoke-Command -Session $_session -FilePath .\sqlQuery.ps1 -ArgumentList $_timestamp, $global:config.SQLServerInstance
+            Invoke-Command -Session $_session -FilePath .\sqlQuery.ps1 -ArgumentList $_timestamp, $global:config.SQLServerInstance, $global:config.SQLServerUserName, $global:config.SQLServerPassword, $global:config.DatabaseName
         }
     }
     else {

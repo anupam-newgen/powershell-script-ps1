@@ -1,6 +1,6 @@
 $global:config = @{
-    UserName          = "userName"
-    Password          = "password"
+    UserName          = "adityabajpai444@gmail.com"
+    Password          = "information0303"
     VMName            = "VirtualMachine2"
     SourcePath        = "E:\Projects\PoweShell\00000\SMBC_devOps\"
     FileName          = "query.sql"
@@ -8,4 +8,7 @@ $global:config = @{
     BackupFolderPath  = "C:\backup\"
     ServiceName       = "Print Spooler"
     SQLServerInstance = "DESKTOP-NFTKB1L"
+    SQLServerUserName = "sa" #if not given Authentication type is windows Authentication else if given then sql server authentication
+    SQLServerPassword = "admin123" #if not given Authentication type is windows Authentication else if given then sql server authentication
+    DatabaseName = "BikeStores"
 }
