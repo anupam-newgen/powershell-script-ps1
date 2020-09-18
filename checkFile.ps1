@@ -9,10 +9,18 @@ if (Test-Path $_filepath) {
 			"Backup file removed"
 		}
 	}
- else {
+    else {
 		mkdir $_backupfolder
 		"Backup folder created"
 	}
 	Move-Item -Path $_filepath -Destination $_backupfolder
 	"New Backup file created"
+}
+Test-Path $args[1]
+if (Test-Path $args[1]) {
+    "Destination folder exists"
+} else {
+    "Destination folder not existed at remote machine"
+    mkdir $args[1]
+    "Destination Folder created at remote machine"
 }
