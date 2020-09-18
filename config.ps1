@@ -1,6 +1,6 @@
 $global:config = @{
-    UserName          = "adityabajpai444@gmail.com"
-    Password          = "information0303"
+    UserName          = "username"
+    Password          = "password"
     VMName            = "VirtualMachine2"
     SourcePath        = "E:\Projects\PoweShell\00000\SMBC_devOps\"
     FileName          = "query.sql"
