@@ -1,0 +1,20 @@
+﻿{
+    "UserName": "AdityaVPC",
+    "Password": "January0303",
+    "VMName": "VirtualMachine",
+    "SourcePath": "E:/Projects/PoweShell/00000/SMBC_devOps/",
+    "FileName": [
+        "dbCreation.sql",
+        "drop.sql",
+        "create.sql",
+        "load.sql"
+    ],
+    "Destination": "C:/qwerty/",
+    "BackupFolderPath": "C:/backup/",
+    "ServiceName": "Print Spooler",
+    "SQLServerInstance": "DESKTOP-K3JKN8H",
+    "SQLServerUserName": "sa",
+    "SQLServerPassword": "Admin123",
+    "DatabaseName": "",
+    "JBossServerPath": "C:/Users/AdityaVPC/EAP-7.3.0/standalone/deployments/"
+}

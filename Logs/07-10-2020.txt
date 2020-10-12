@@ -1,0 +1,17 @@
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+System.Management.Automation.PSTransaction
+Error occured while executing the Query
+System.Management.Automation.PSTransaction
+Error occured while executing the Query 
+
+Remote Session Ended

@@ -1,0 +1,229 @@
+commands execution on remote machine
+10/12/2020 12:52:26 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 12:53:22 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 12:55:03 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:25:38 PM
+Authentication Done
+Remote Session Started
+File not found
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:29:12 PM
+Authentication Done
+Remote Session Started
+File not found
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:29:40 PM
+The credential is invalid
+commands execution on remote machine
+10/12/2020 5:32:19 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+C:/qwerty/2020-10-12/dbCreation.sql
+C:/qwerty/2020-10-12/drop.sql
+C:/qwerty/2020-10-12/create.sql
+C:/qwerty/2020-10-12/load.sql
+C:/backup/
+C:/backup/2020-10-12/dbCreation.sql
+C:/backup/2020-10-12/drop.sql
+C:/backup/2020-10-12/create.sql
+C:/backup/2020-10-12/load.sql
+C:/backup/2020-10-12
+C:/qwerty/2020-10-12
+4
+start
+C:/backup/ C:/backup/2020-10-12/dbCreation.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/drop.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/create.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/load.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:39:33 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+C:/qwerty/2020-10-12/dbCreation.sql
+C:/qwerty/2020-10-12/drop.sql
+C:/qwerty/2020-10-12/create.sql
+C:/qwerty/2020-10-12/load.sql
+C:/backup/
+C:/backup/2020-10-12/dbCreation.sql
+C:/backup/2020-10-12/drop.sql
+C:/backup/2020-10-12/create.sql
+C:/backup/2020-10-12/load.sql
+C:/backup/2020-10-12
+C:/qwerty/2020-10-12
+4
+start
+C:/backup/ C:/backup/2020-10-12/dbCreation.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/drop.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/create.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/load.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:39:54 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+C:/qwerty/2020-10-12/dbCreation.sql
+C:/qwerty/2020-10-12/drop.sql
+C:/qwerty/2020-10-12/create.sql
+C:/qwerty/2020-10-12/load.sql
+C:/backup/
+C:/backup/2020-10-12/dbCreation.sql
+C:/backup/2020-10-12/drop.sql
+C:/backup/2020-10-12/create.sql
+C:/backup/2020-10-12/load.sql
+C:/backup/2020-10-12
+C:/qwerty/2020-10-12
+4
+start
+C:/backup/ C:/backup/2020-10-12/dbCreation.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/drop.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/create.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/load.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:40:45 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+C:/qwerty/2020-10-12/dbCreation.sql
+C:/qwerty/2020-10-12/drop.sql
+C:/qwerty/2020-10-12/create.sql
+C:/qwerty/2020-10-12/load.sql
+C:/backup/
+C:/backup/2020-10-12/dbCreation.sql
+C:/backup/2020-10-12/drop.sql
+C:/backup/2020-10-12/create.sql
+C:/backup/2020-10-12/load.sql
+C:/backup/2020-10-12
+C:/qwerty/2020-10-12
+4
+start
+C:/backup/ C:/backup/2020-10-12/dbCreation.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/drop.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/create.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+C:/backup/ C:/backup/2020-10-12/load.sql checkFileExistence File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created Today folder already created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/12/2020 5:40:50 PM
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+SQL Query Execution Done 
+
+Remote Session Ended

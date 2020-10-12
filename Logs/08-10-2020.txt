@@ -1,0 +1,587 @@
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+File already exists C:\backup Backup folder created File already exists 
+Backup folder created 
+C:\backup\2020-10-08 New Backup file created New Backup file created New Backup file created New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+SQL Query Execution Done 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Either invalid file or invalid option selected
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+File already exists File already exists 
+Today folder already created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+SQL Query Execution Done 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+Error occured while executing the Query 
+
+Remote Session Ended
+commands execution on remote machine
+Authentication Done
+Remote Session Started
+Execute-SQL on VM
+Destination folder not existed at remote machine Destination Folder created at remote machine Destination folder not existed at remote machine 
+Destination Folder created at remote machine 
+
+Copy Started
+Copy Done
+Execution of SQL Query Started
+SQL Query
+SQL Query Execution Done 
+
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 1:53:48 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+File already exists File already exists 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 1:54:57 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 1:55:11 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 1:55:43 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Check File
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 1:56:04 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+File already exists Backup file removed File already exists 
+Backup file removed 
+Today folder already created New Backup file created New Backup file created New Backup file created New Backup file created Today folder already created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+New Backup file created 
+Destination folder exists Destination folder exists 
+
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 2:07:31 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 2:08:53 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 2:10:38 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 5:32:31 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 5:39:08 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/8/2020 5:45:59 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended

@@ -1,0 +1,108 @@
+commands execution on remote machine
+10/9/2020 2:06:25 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 2:06:56 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 2:56:27 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 3:09:45 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 3:12:08 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 3:13:08 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 3:13:16 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 3:13:21 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 6:05:45 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 6:06:03 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 6:10:39 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
+commands execution on remote machine
+10/9/2020 6:11:16 PM
+Authentication Done
+Remote Session Started
+Copy-File on VM
+Copy Started
+Copy Done
+File updated
+Remote Session Ended
